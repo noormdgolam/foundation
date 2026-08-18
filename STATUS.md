@@ -145,6 +145,32 @@ small-nonprofit options — no/low platform fees, built on PayPal+Stripe),
 wire the button into the "Online Donation" card in donate.html and clear
 its `.ph` markers.
 
+**2026-08-19: real photos and evidenced content added.** Reviewed the full
+upload history in wp-backup for genuine (non-demo) photos. Found:
+- `32.jpg`/`65.jpg`: real candid photos of jackfruit being sorted/processed
+  into chips at an industrial facility — jackfruit is Bangladesh's national
+  fruit. Now used as `jackfruit-sorting.jpg`/`jackfruit-processing.jpg`.
+- `34.jpg`: real photo of a Bongshai Group workforce meeting — now
+  `team-meeting.jpg`, used on about.html.
+- `23.jpg`: aerial photo of fish/prawn ponds, plausibly real — now
+  `aquaculture-ponds.jpg`.
+- `Potato-Chips.jpg`, `Boiler-firm.png` (broiler chickens), `jak.jpg`
+  (jackfruit equipment): deliberately-sourced topical STOCK images, not
+  candid photos — but their existence is real evidence those are genuine
+  focus areas (food processing / poultry), even though the images themselves
+  aren't candid. Treated as moderate-confidence supporting evidence.
+- `rrr.jpg`: turned out to be an unrelated 2016 journalism seminar photo
+  (US Embassy Dhaka event) — excluded, not used anywhere.
+
+Updated program copy on index.html/programs.html to name jackfruit
+processing and fish farming specifically (now evidenced, not guessed) and
+removed the `.ph` wrapper on those two cards accordingly. Added a "Field
+Notes" real-photo section to about.html, and a real stat (~68% of
+Bangladesh's population is rural, from indexed content on the org's own
+site) to the story section. Mini Textiles and Local Storage & Sales cards
+are unchanged — no real photo or source evidence found for those yet, still
+`.ph` marked.
+
 Also lower-priority: several `alt` attributes describe stock/demo photos
 (Unsplash images bundled with the theme's original demo, e.g. cause2/4/5/6.jpg)
 as if they depict real Bongshai Foundation activities/offices/leadership.
