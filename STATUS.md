@@ -112,6 +112,24 @@ independently verified these. Confirm Antigravity actually has a source for
 each before treating them as final; soften to the general confirmed
 language ("agricultural production and food processing" etc.) if not.
 
+**2026-08-18, later still: Donate page added (donate.html).** No payment
+platform chosen yet by the user — page ships with a placeholder "Online
+Donation" card and a working interim path (call/email, using the confirmed
+phone/email) instead of a dead button. Nav updated on all 5 pages.
+
+⚠️ **Compliance flag, NOT published on the site — track internally:**
+Receiving donations from outside Bangladesh legally requires registration
+with the NGO Affairs Bureau (NGOAB) under the Foreign Donations (Voluntary
+Activities) Regulation Act, 2016 — banks won't release foreign funds to an
+unregistered organization. Confirm this is in place before actively
+soliciting international gifts; not something to state on the public page,
+but the org should verify it before real payment collection goes live.
+
+When a payment platform is chosen (Donorbox and Givebutter are solid
+small-nonprofit options — no/low platform fees, built on PayPal+Stripe),
+wire the button into the "Online Donation" card in donate.html and clear
+its `.ph` markers.
+
 Also lower-priority: several `alt` attributes describe stock/demo photos
 (Unsplash images bundled with the theme's original demo, e.g. cause2/4/5/6.jpg)
 as if they depict real Bongshai Foundation activities/offices/leadership.
