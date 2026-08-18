@@ -1,3 +1,18 @@
+⚠️ **2026-08-19: repo layout changed.** Site files moved from `static-site/`
+to the repo root (index.html, about.html, etc. are now top-level, alongside
+this file and tools/). Older references below to `static-site/...` paths are
+historical — the files now live at the equivalent path without that prefix.
+
+Why: cPanel Git Version Control has this repo's "repository path" set
+directly to the live docroot (`/home/abongsha/bongshaifoundation.org/`,
+confirmed via FTP — it has a `.git` folder in place). With site files nested
+under `static-site/`, a plain "Pull" left them one level too deep
+(bongshaifoundation.org/static-site/... instead of bongshaifoundation.org/).
+Flattening the repo means a plain git pull now puts index.html exactly where
+the webserver looks for it — no separate "Deploy HEAD Commit" step needed.
+Removed .cpanel.yml accordingly (its copy task pointed at the old
+static-site/ path and is no longer needed).
+
 # bongshaifoundation.org — WordPress → Static migration status
 
 Shared handoff file between Antigravity (local, has FTP access) and Claude Code
