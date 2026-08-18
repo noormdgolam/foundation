@@ -1,0 +1,19 @@
+# robots.txt for Bongshai Foundation
+User-agent: *
+Allow: /
+
+# Friendly AI Agents & Discovery
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Agent discovery manifest
+Sitemap: /sitemap.xml

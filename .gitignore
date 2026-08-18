@@ -1,0 +1,6 @@
+wp-backup/
+well-known.zip
+ANTIGRAVITY_PROMPT.md
+static-site-crawled/
+*.log
+node_modules/

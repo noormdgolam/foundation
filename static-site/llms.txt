@@ -1,0 +1,23 @@
+# Bongshai Foundation
+
+> Bongshai Foundation is a nonprofit organization dedicated to grassroots rural transformation across Bangladesh by equipping villagers with training, tools, and financing to establish sustainable micro-industries.
+
+## Organization Details
+- **Organization Name**: Bongshai Foundation
+- **Parent Group**: Bongshai Group (Dhaka, Bangladesh)
+- **Sister Entities**: Bongshai Housing, Bongshai Steel, Bongshai Engineering & Construction
+- **Primary Focus**: Rural micro-industry incubation, agro-engineering, food processing, mini textiles, craft industries, and local market linkages.
+- **Location**: House # 18, Road # 18, Sector # 10, Uttara C/A, Dhaka-1230, Bangladesh
+
+## Core Programs & Focus Areas
+- **Agricultural Production & Agro-Engineering**: Modern farming techniques, machinery training, fish culture, and poultry/livestock farming.
+- **Food Processing & Preservation**: Establishing community processing units (e.g. potato chips, fruit juice, dried foods) to reduce post-harvest crop loss.
+- **Mini Textiles & Crafts**: Empowering rural artisans, women, and youth in handloom, mini textile, and handicraft production.
+- **Micro-Industry Finance & Market Access**: Capital access, rural storage facilities, and connecting village producers directly to regional/national markets.
+- **Community Support**: Supplementary initiatives in healthcare, education, sports, and logistics.
+
+## Key Web Pages
+- [Home Page](/index.html): Overview of Bongshai Foundation mission, core micro-industry pillars, and approach.
+- [About Us](/about.html): Background on rural transformation, mission, values, and community impact.
+- [Programs](/programs.html): Detailed directory of vocational training, agro-engineering, food processing, and textile initiatives.
+- [Contact](/contact.html): Office location and communication channels for partnerships, donations, and volunteer inquiries.
